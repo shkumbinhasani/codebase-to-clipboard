@@ -1,0 +1,13 @@
+{
+  "name": "codebase-to-clipboard",
+  "version": "1.0.0",
+  "description": "A terminal tool to copy codebase content to the clipboard.",
+  "main": "index.js",
+  "bin": {
+    "codebase-to-clipboard": "./index.js"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
+
